@@ -15,4 +15,4 @@
 	url = https://github.com/Melzas/CommonKit.git
 [submodule "submodules/ActiveRecordKit"]
 	path = submodules/ActiveRecordKit
-	url = https://github.com/idapgroup/ActiveRecordKit.git
+	url = https://github.com/Melzas/ActiveRecordKit.git
