@@ -1,6 +1,6 @@
 [submodule "submodules/UIKit"]
 	path = submodules/UIKit
-	url = https://github.com/idapgroup/UIKit.git
+	url = https://github.com/Melzas/UIKit.git
 [submodule "submodules/SystemConfigKit"]
 	path = submodules/SystemConfigKit
 	url = https://github.com/idapgroup/SystemConfigKit.git
@@ -9,10 +9,10 @@
 	url = https://github.com/idapgroup/QuartzCoreKit.git
 [submodule "submodules/DataKit"]
 	path = submodules/DataKit
-	url = https://github.com/idapgroup/DataKit.git
+	url = https://github.com/Melzas/DataKit.git
 [submodule "submodules/CommonKit"]
 	path = submodules/CommonKit
-	url = https://github.com/idapgroup/CommonKit.git
+	url = https://github.com/Melzas/CommonKit.git
 [submodule "submodules/ActiveRecordKit"]
 	path = submodules/ActiveRecordKit
 	url = https://github.com/idapgroup/ActiveRecordKit.git

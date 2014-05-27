@@ -29,7 +29,6 @@
  */
 
 #import "IDPActiveRecordKit.h"
-#import "AppKitKit.h"
 #import "IDPCommonKit.h"
 #import "IDPDataKit.h"
 #import "IDPQuartzCoreKit.h"
