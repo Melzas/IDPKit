@@ -3,10 +3,7 @@
 	url = https://github.com/Melzas/UIKit.git
 [submodule "submodules/SystemConfigKit"]
 	path = submodules/SystemConfigKit
-	url = https://github.com/idapgroup/SystemConfigKit.git
-[submodule "submodules/QuartzCoreKit"]
-	path = submodules/QuartzCoreKit
-	url = https://github.com/idapgroup/QuartzCoreKit.git
+	url = https://github.com/Melzas/SystemConfigKit.git
 [submodule "submodules/DataKit"]
 	path = submodules/DataKit
 	url = https://github.com/Melzas/DataKit.git
