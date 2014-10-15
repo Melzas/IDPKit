@@ -13,3 +13,9 @@
 [submodule "submodules/ActiveRecordKit"]
 	path = submodules/ActiveRecordKit
 	url = https://github.com/Melzas/ActiveRecordKit.git
+[submodule "submodules/CoreLocationKit"]
+	path = submodules/CoreLocationKit
+	url = https://github.com/Melzas/CoreLocationKit.git
+[submodule "submodules/QuartzCoreKit"]
+	path = submodules/QuartzCoreKit
+	url = https://github.com/idapgroup/QuartzCoreKit.git
